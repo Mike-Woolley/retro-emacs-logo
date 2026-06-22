@@ -1,9 +1,8 @@
 # Liquid Glass Version of Classic Emacs Icon
 
-![Light](Images/Light.png)
-![Dark](Images/Dark.png)
-![Clear](Images/Clear.png)
-![Tinted](Images/Tinted.png)
+| Light | Dark | Clear | Tinted |
+|:-----:|:----:|-------|:------:|
+| ![Light](Images/Light.png) | ![Dark](Images/Dark.png) | ![Clear](Images/Clear.png) | ![Tinted](Images/Tinted.png) |
 
 ## Overview
 
